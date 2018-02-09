@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: "ktagg-github"
     token:
-      secure: "219de2fa4f1157140bc11136f14d54706f84168e"
+      secure: "a78ca84ff9e82b51a55a28db64ddd6e83fadf353"
 jdk:
   - oraclejdk8
 script:
