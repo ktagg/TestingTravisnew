@@ -3,9 +3,9 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: "your_organization_key"
+    organization: "ktagg-github"
     token:
-      secure: "your_token_encrypted_with_travis_encrypt_tool"
+      secure: "219de2fa4f1157140bc11136f14d54706f84168e"
 jdk:
   - oraclejdk8
 script:
